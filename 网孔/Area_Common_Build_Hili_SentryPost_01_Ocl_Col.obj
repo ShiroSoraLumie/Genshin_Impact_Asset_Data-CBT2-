@@ -1,0 +1,12 @@
+g Area_Common_Build_Hili_SentryPost_01_Ocl_Col
+v -2.43791 3.200705 2.361201
+v -2.515013 3.200705 -2.369345
+v 2.702529 3.200705 -2.369346
+v 2.319435 3.200705 2.361201
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+g Area_Common_Build_Hili_SentryPost_01_Ocl_Col_0
+f 3/3/3 2/2/2 1/1/1
+f 4/4/4 3/3/3 1/1/1
